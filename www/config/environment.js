@@ -14,14 +14,14 @@ module.exports = function(environment) {
 
     APP: {
       // API host and port
-      ApiUrl: '//enix.arhash.xyz/',
+      ApiUrl: '//pool.enix.ai/',
 
       // HTTP mining endpoint
-      HttpHost: 'http://enix.arhash.xyz',
+      HttpHost: 'http://pool.enix.ai',
       HttpPort: 8888,
 
       // Stratum mining endpoint
-      StratumHost: 'enix.arhash.xyz',
+      StratumHost: 'pool.enix.ai',
       StratumPort: 8008,
 
       // Fee and payout details
