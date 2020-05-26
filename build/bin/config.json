@@ -83,7 +83,7 @@
 	"unlocker": {
 		"enabled": false,
 		"poolFee": 0.0,
-		"poolFeeAddress": "0xfed15e84337d37915f8ae82c98c60a35b5b685dd",
+		"poolFeeAddress": "0xaddab109ddf1a3356d756f98f64ed4369d9315ab",
 		"donate": true,
 		"depth": 120,
 		"immatureDepth": 20,
@@ -99,7 +99,7 @@
 		"interval": "120m",
 		"daemon": "http://127.0.0.1:8545",
 		"timeout": "10s",
-		"address": "0xfed15e84337d37915f8ae82c98c60a35b5b685dd",
+		"address": "0xaddab109ddf1a3356d756f98f64ed4369d9315ab",
 		"gas": "21000",
 		"gasPrice": "50000000000",
 		"autoGas": true,
