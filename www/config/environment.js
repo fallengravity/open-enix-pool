@@ -14,7 +14,7 @@ module.exports = function(environment) {
 
     APP: {
       // API host and port
-      ApiUrl: '//enix.work/',
+      ApiUrl: 'https://enix.work/',
 
       // HTTP mining endpoint
       HttpHost: 'http://enix.work',
